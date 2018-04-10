@@ -6,7 +6,7 @@
 
 body {
     max-width: 1280px;
-    margin: auto;
+    margin: auto; font-family: "open sans"
 }
 
 #header {text-align: center; background-color: cadetblue; background-image: url(images/header.jpg)
